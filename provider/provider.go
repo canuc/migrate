@@ -1,7 +1,7 @@
 package provider
 
 import (
-	"github.com/canuc/terraform-migrate-provider/resource_changed"
+	"github.com/canuc/terraform-provider-migrationchangedetection/resource_changed"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 )
 
